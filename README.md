@@ -30,6 +30,6 @@
 
 ## Status of public projects
 
-[![Adriano L. Vieira GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianolvti)](https://github.com/adrianolvti/github-readme-stats)
+[![Adriano L. Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianolvti&theme=radical&show_icons=true)
 <!-- ![Adriano L. Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianolvti&show_icons=true&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianolvti&layout=compact)](https://github.com/adrianolvti/github-readme-stats) -->
